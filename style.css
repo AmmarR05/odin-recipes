@@ -1,0 +1,49 @@
+* {
+    color: white;
+    font-size: 40px;
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h1 {
+    margin-left:1420px;
+}
+img {
+    width:500px; 
+    height:400px;
+    display: inline;
+    margin-left:1259px ;
+    margin-top:20px ;
+}
+h2 {
+    margin-left:300px;
+}
+.hov {
+    margin-left:20px ;
+}
+.Ing {
+    margin-left: 400px;
+    
+}
+ul li {
+    margin-left: 420px;
+
+}
+.ste {
+    margin-left: 400px;
+}
+ol li {
+    margin-left: 420px;
+    
+}
+span {
+    color: red;
+    font-size: 35px;
+}
+a {
+    color: blue;
+    margin-left: 2700px;
+}
